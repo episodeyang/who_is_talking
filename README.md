@@ -1,6 +1,8 @@
 # who_is_talking
 A web app that tells you how often is women talking vs man
 
+**link to repository**: [github](https://github.com/episodeyang/who_is_talking)
+
 ## Todo List
 - [ ] **assess the data**: 
     some of the files have different bit rate, resulting in this kind of frequency doubling artifact: 
